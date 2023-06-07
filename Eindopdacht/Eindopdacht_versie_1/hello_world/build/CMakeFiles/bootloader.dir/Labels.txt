@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/CMakeFiles/bootloader
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/CMakeFiles/bootloader.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/CMakeFiles/bootloader-complete.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/daphne/Documents/HU/Jaar-2-periode-4/MRB/MRB-git/Jaar-2-MRB/Eindopdacht/Eindopdacht_versie_1/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
